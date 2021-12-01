@@ -1,12 +1,10 @@
 from solver import Solver
-from utils import Game
-import numpy as np
-import time
+from game import Game
 
 
 res = Solver()
 
-NUM_TRIAL = 10000
+NUM_TRIAL = 1000
 scores = []
 
 for _ in range(NUM_TRIAL):
