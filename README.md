@@ -4,6 +4,6 @@
 `pyhton3 scoring.py`
 
 ## Visualizer 実行方法
-- ローカルのchromeのサポートバージョンのchromedriverをインストール(https://chromedriver.chromium.org/downloads)してパスを通す
+- ローカルのchromeのサポートバージョンのchromedriverをインストールしてパスを通す (https://chromedriver.chromium.org/downloads)
 - 以下のコマンドを実行
 `visualizer.py`
