@@ -6,4 +6,8 @@
 ## Visualizer 実行方法
 - ローカルのchromeのサポートバージョンのchromedriverをインストールしてパスを通す (https://chromedriver.chromium.org/downloads)
 - 以下のコマンドを実行
-`visualizer.py`
+`python3 visualizer.py`
+
+## 解法
+- 乱択 1000点前後
+- 一手先得点貪欲 3000点前後
