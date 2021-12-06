@@ -4,7 +4,7 @@ from game import Game
 
 res = Solver()
 
-NUM_TRIAL = 1000
+NUM_TRIAL = 10
 scores = []
 
 for _ in range(NUM_TRIAL):

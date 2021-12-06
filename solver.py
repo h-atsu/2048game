@@ -6,7 +6,7 @@ class Solver():
     def __init__(self) -> None:
         pass
 
-    def solve(self, list) -> str:
+    def solve(self, board) -> str:
         d = ['r', 'l', 'u', 'd']
         max_score = 0
         ans = []
@@ -15,10 +15,11 @@ class Solver():
                   'u': Game.move_up,
                   'd': Game.move_down}
         for i in range(4):
-            game = Game(list)
+            game = Game(board)
             is_movable = action[d[i]](game)
             if game.score >= max_score and is_movable:
                 ans = d[i]
+                max_score = game.score
         return ans
 
 

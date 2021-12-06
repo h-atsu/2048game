@@ -101,3 +101,6 @@ JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch res
 1638414197171	Marionette	INFO	Stopped listening on port 56266
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638498274770	Marionette	INFO	Stopped listening on port 55241
+1638498279298	Marionette	INFO	Stopped listening on port 55853
+1638498282034	Marionette	INFO	Stopped listening on port 56111
