@@ -9,7 +9,7 @@
 `python3 visualizer.py`
 
 ## Visualizer 実行方法(colab)
-- 以下のコマンドを実行
+- 以下のコマンドを実行  
 `!apt-get update`  
 `!pip install selenium`  
 `!apt install chromium-chromedriver`  
