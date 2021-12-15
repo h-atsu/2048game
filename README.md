@@ -9,12 +9,13 @@
 `python3 visualizer.py`
 
 ## Visualizer 実行方法(colab)
-- 以下のコマンドを実行  
+- colabのセルで以下のコマンドを実行  
 `!apt-get update`  
 `!pip install selenium`  
 `!apt install chromium-chromedriver`  
 `import sys`  
 `sys.path.insert(0,'/usr/lib/chromium-browser/chromedriver')`  
+`run visualizer2.py`
 
 
 ## 解法
