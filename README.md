@@ -5,7 +5,7 @@
 
 ## Visualizer 実行方法
 - ローカルのchromeのサポートバージョンのchromedriverをインストールしてパスを通す (https://chromedriver.chromium.org/downloads)
-- 以下のコマンドを実行
+- 以下のコマンドを実行  
 `python3 visualizer.py`
 
 ## 解法
